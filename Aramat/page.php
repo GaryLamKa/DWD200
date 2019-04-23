@@ -1,5 +1,14 @@
 <?php get_header();?>
 
+<style>
+
+.woocommerce-billing-fields{
+    width: 450px;
+}
+
+
+</style>
+
 <div class="container pt-5 pb-5">
 
           <h1><?php the_title();?></h1>
