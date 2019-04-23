@@ -1,0 +1,47 @@
+      <div class="band-section-content">
+
+            <div class="band-members">
+                  <a href="#">
+                    <img class="band-member-photo" src="">
+                  </a>
+
+                  <div class="band-member-name">
+                    <h3>Jack D</h3>
+                    <h4>Base</h4>
+                  </div>
+            </div>
+
+            <div class="band-members">
+                  <a href="#">
+                    <img class="band-member-photo" src="">
+                  </a>
+
+                  <div class="band-member-name">
+                    <h3>Jack D</h3>
+                    <h4>Base</h4>
+                  </div>
+            </div>
+
+            <div class="band-members">
+                  <a href="#">
+                    <img class="band-member-photo" src="">
+                  </a>
+
+                  <div class="band-member-name">
+                    <h3>Jack D</h3>
+                    <h4>Base</h4>
+                  </div>
+            </div>
+
+            <div class="band-members">
+                  <a href="#">
+                    <img class="band-member-photo" src="">
+                  </a>
+
+                  <div class="band-member-name">
+                    <h3>Jack D</h3>
+                    <h4>Base</h4>
+                  </div>
+            </div>
+
+      </div>
