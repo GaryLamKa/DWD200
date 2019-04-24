@@ -4,7 +4,7 @@
         <head>
 
             <?php wp_head();?>
-
+            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         </head>
 
 <body <?php body_class();?>>
@@ -31,7 +31,7 @@ a{
 header{
 	width: 100%;
 	height: 100vh;
-	background: linear-gradient(to bottom, rgba(0,0,0,.8), rgba(0,0,0,.5)), url("https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80") center no-repeat;
+	background: linear-gradient(to bottom, rgba(0,0,0,.5), rgba(0,0,0,.3)), url("http://localhost/wordpress/wp-content/uploads/2019/04/48422251_792235661113664_7653243989004386304_n.jpg") center no-repeat;
 	background-size: cover;
 	position: relative;
   overflow: hidden;
@@ -214,12 +214,12 @@ nav ul li a:hover::after{
           <div class="overlay"></div>
           <div class="container">
               <nav>
-                  <h1 class="brand"><a href="index.html"><span>A</span>R<span>A</span>M<span>A</span>T</a></h1>
+                  <h1 class="brand"><a href="http://localhost/wordpress/"><span>A</span>R<span>A</span>M<span>A</span>T</a></h1>
                   <ul>
-                      <li><a href="#song">Song</a></li>
-                      <li><a href="#event">Evernt</a></li>
-                      <li><a href="#gallery">Gallery</a></li>
-                      <li><a href="#shop">Shop</a></li>
+                      <li><a href="http://localhost/wordpress/#song">Song</a></li>
+                      <li><a href="http://localhost/wordpress/#event">Evernt</a></li>
+                      <li><a href="http://localhost/wordpress/#gallery">Gallery</a></li>
+                      <li><a href="http://localhost/wordpress/#shop">Shop</a></li>
                   </ul>
               </nav>
           </div>
